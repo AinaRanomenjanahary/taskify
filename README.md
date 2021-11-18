@@ -7,7 +7,6 @@ Les membres:
 
 ### Installation and use
 
-Clone this repository:
 
 Install npm packages:
 
